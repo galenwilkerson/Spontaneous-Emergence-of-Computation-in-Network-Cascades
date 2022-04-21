@@ -10,9 +10,7 @@ The number of possible inputs is k = 2.
 
 The file contains a numpy array having shape:
 
-(7, 10, 500, 16)
-
-[theta_range x z range x num_trials x num_functions]
+(7, 10, 500, 16)  [theta_range x z range x num_trials x num_functions]
 
 theta values are:
 
@@ -33,9 +31,7 @@ The number of possible inputs is k = 4.
 
 The file contains a numpy array having shape:
 
-(1, 1, 500, 65536)
-
-[theta_range x z range x num_trials x num_functions]
+(1, 1, 500, 65536)  [theta_range x z range x num_trials x num_functions]
 
 theta values are:
 0       
