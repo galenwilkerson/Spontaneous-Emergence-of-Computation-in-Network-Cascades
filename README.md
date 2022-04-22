@@ -26,7 +26,7 @@ For example, the row
 
 [9681,   73,    0, ...,    0,    0,    0]
 
-means that function 0 was observed 9681 times, function 1 was observed 73 times, function 0 was observed 0 times, etc.
+means that function 0 was observed 9681 times, function 1 was observed 73 times, function 2 was observed 0 times, etc.
 
 
 # For the file ALTM_theta_results_k=4.pkl.gz
