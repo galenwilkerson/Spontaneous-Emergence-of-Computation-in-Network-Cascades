@@ -4,7 +4,7 @@ The files here are gzipped Python 3.6 pickle (.pkl.gz) files.
 
 Both correspond to runs of N = 10000 nodes.
 
-# For the file ALTM_theta_results_k=2.pkl.gz
+## For the file ALTM_theta_results_k=2.pkl.gz
 
 The number of possible inputs is k = 2.
 
@@ -29,7 +29,7 @@ For example, the row
 means that function 0 was observed 9681 times, function 1 was observed 73 times, function 2 was observed 0 times, etc.
 
 
-# For the file ALTM_theta_results_k=4.pkl.gz
+## For the file ALTM_theta_results_k=4.pkl.gz
 
 The number of possible inputs is k = 4.
 
