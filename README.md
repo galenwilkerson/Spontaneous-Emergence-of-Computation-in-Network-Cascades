@@ -20,9 +20,13 @@ z values are:
 
 0.000e+00, 5.000e-01, 1.000e+00, 4.000e+00, 1.600e+01, 6.400e+01, 2.560e+02, 1.024e+03, 4.096e+03, 9.999e+03
 
-Each row of the file is a count of how often each function occurred in a single trial.
+Each row of the file is a count of how often each function occurred in a single trial:
+
+For example, the row
 
 [9681,   73,    0, ...,    0,    0,    0]
+
+means that function 0 was observed 9681 times, function 1 was observed 73 times, function 0 was observed 0 times, etc.
 
 
 # For the file ALTM_theta_results_k=4.pkl.gz
@@ -38,7 +42,3 @@ theta values are:
 
 z values are:
 4
-
-Each row of the file is a count of how often each function occurred in a single trial.
-
-[9681,   73,    0, ...,    0,    0,    0]
